@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">小狐狸佐拉 日本代购</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="sql_mmid">微信ID :</string>
+    <string name="sql_article">物品名称 :</string>
+    <string name="sql_price">单价 :</string>
+    <string name="sql_quantity">数量 :</string>
+    <string name="sql_mark">备注 :</string>
+    <string name="sql_date">购买日期 :</string>
+    <string name="sql_hint">请输入</string>
+    <string name="sql_input_err">输入错误</string>
+    <string name="sql_succ">成功</string>
+    <string name="sql_date_hint">默认当天</string>
+    <string name="sql_add">添加</string>
+    <string name="sql_modi_one">修改该条</string>
+	<string name="sql_del_one">删除该条</string>
+	<string name="sql_del_all">删除所有</string>
+	<string name="sql_cancel">取消</string>
+    <string name="sql_query">查询</string>
+    <string name="sql_query_sum">小计金额 :</string>
+    <string name="sql_query_hint">输入查询信息</string>
+    <string name="sql_ordered">已代购</string>
+    <string name="sql_not_ordered">未代购</string>
+    <string name="sql_not_shipped">未发货</string>
+    <string name="sql_shipped">已发货</string>
+</resources>
